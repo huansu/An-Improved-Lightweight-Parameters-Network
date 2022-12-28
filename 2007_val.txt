@@ -1,0 +1,219 @@
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1672.jpg 437,1606,839,2041,0 2025,2010,2594,2551,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_188.jpg 929,1407,1199,1647,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_634.jpg 1314,268,1568,501,0 1065,956,1831,1556,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_652.jpg 1282,1409,1826,1919,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1399.jpg 1458,1518,1961,2015,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_495.jpg 648,705,1836,1793,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_346.jpg 1192,855,1485,1036,0 1155,1102,1524,1423,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_547.jpg 1466,1206,2101,1816,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1514.jpg 1492,1404,1913,1883,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_275.jpg 956,1308,1264,1621,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_565.jpg 1703,1094,2207,1593,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1008.jpg 1211,1220,1824,1779,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1091.jpg 243,471,998,1077,0 956,1016,1872,1929,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_608.jpg 1543,1316,2111,1906,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_179.jpg 1306,1498,1570,1665,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_593.jpg 1379,1043,2208,1952,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_129.jpg 471,1217,839,1574,0 1719,202,2082,536,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1090.jpg 907,1219,2011,2193,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_341.jpg 1542,1381,1773,1658,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1128.jpg 1467,948,1965,1375,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1079.jpg 1273,1382,1953,2118,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_710.jpg 947,1236,2207,2169,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_361.jpg 1130,1363,1338,1579,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1123.jpg 1602,716,1921,990,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_668.jpg 1535,1367,1975,1859,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_622.jpg 1506,1458,2100,2145,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_492.jpg 1441,1222,2075,1749,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_159.jpg 1132,1146,1340,1351,0 1268,1225,1450,1453,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_548.jpg 1304,626,1830,1116,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_335.jpg 1637,794,2042,1293,0 1437,774,1638,908,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1108.jpg 695,1090,843,1284,0 961,1045,1229,1265,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1285.jpg 1145,1200,1439,1554,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1298.jpg 1004,1078,1631,1534,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_748.jpg 1226,874,1753,1398,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_169.jpg 1427,1413,1632,1629,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1309.jpg 721,871,1134,1120,0 1430,1135,1872,1497,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_45.jpg 1300,1339,1639,1766,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_119.jpg 1063,1376,1301,1626,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1415.jpg 1519,625,1885,959,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_694.jpg 1718,925,2278,1679,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_136.jpg 1332,1206,1582,1367,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_454.jpg 1716,1420,2217,1899,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1104.jpg 1415,1401,1677,1652,0 1673,1105,1972,1369,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_493.jpg 1630,1183,2027,1612,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_119.jpg 880,1008,1309,1447,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_206.jpg 1060,769,1497,1240,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_627.jpg 1353,1132,2098,1942,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1252.jpg 694,1264,1242,1618,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1061.jpg 1336,1274,1982,1921,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1709.jpg 1156,1331,1735,1931,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_426.jpg 643,1443,1010,1848,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_48.jpg 1253,1079,1447,1244,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_619.jpg 1417,1248,1875,1922,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1578.jpg 1130,2406,1645,2910,0 1577,2138,2193,2739,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_442.jpg 1533,1087,2130,1607,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1590.jpg 1369,1432,1740,1766,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_764.jpg 954,1551,1382,2108,0 1883,208,2155,429,0 953,3,1389,106,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1199.jpg 940,1340,1444,1766,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1393.jpg 1087,1438,1881,1922,0 10,118,842,567,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_210.jpg 1132,1463,1396,1685,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_19.jpg 1176,965,1460,1330,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_501.jpg 1344,888,1780,1393,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_697.jpg 1276,1567,2128,2536,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1428.jpg 1969,1272,2178,1513,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_795.jpg 1591,952,2156,1500,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1566.jpg 687,1473,1723,2225,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1062.jpg 1592,1030,2069,1470,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_525.jpg 1627,1304,2295,2004,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1631.jpg 1547,1602,2110,2014,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1193.jpg 1293,642,1662,1010,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_308.jpg 1166,946,1462,1160,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_238.jpg 1510,1284,1655,1564,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_27.jpg 1447,1005,1718,1171,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_71.jpg 991,967,1326,1244,0 1240,1212,1510,1439,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_650.jpg 1272,603,1920,1032,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_266.jpg 1394,452,1872,834,0 1590,832,1796,990,0 1318,571,1545,767,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_361.jpg 786,1437,1136,1834,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_296.jpg 1415,1222,1558,1358,0 1446,1315,1665,1507,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_191.jpg 855,992,1205,1343,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_177.jpg 1257,1146,1606,1561,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_658.jpg 1656,1855,2272,2435,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_728.jpg 1315,977,1957,1633,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_192.jpg 1703,1305,2072,1643,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1436.jpg 1315,885,1676,1113,0 1742,1194,2065,1534,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_34.jpg 810,1065,1570,1765,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_176.jpg 1230,1120,1479,1340,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_175.jpg 1352,1264,1654,1522,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_57.jpg 1192,1200,1510,1514,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_560.jpg 1176,1332,1916,2083,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_602.jpg 717,929,1798,2322,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1223.jpg 472,910,897,1266,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_489.jpg 1348,1403,2034,1805,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1527.jpg 1335,1139,1781,1537,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1184.jpg 1162,928,1548,1316,0 1641,1005,1952,1243,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_268.jpg 911,873,1470,1368,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_409.jpg 1515,719,2308,1590,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1603.jpg 1463,1188,2141,1871,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_706.jpg 1596,1341,2054,1799,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_372.jpg 1339,1106,1612,1397,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_326.jpg 981,1291,1243,1536,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_109.jpg 1215,1120,1578,1507,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_141.jpg 1242,1467,1567,1745,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_107.jpg 1164,1159,1425,1433,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_610.jpg 896,1193,1711,2080,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_200.jpg 1526,1591,1906,1959,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_711.jpg 676,1464,1578,2165,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_488.jpg 1285,836,1808,1370,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_579.jpg 1300,1249,2130,2051,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_492.jpg 1433,1057,1959,1641,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_283.jpg 746,1130,969,1422,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1687.jpg 1286,1097,1696,1524,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_315.jpg 1133,969,1377,1229,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_120.jpg 1665,1319,1929,1560,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_420.jpg 1670,1858,2087,2041,0 2125,1558,2500,1915,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1156.jpg 1141,1204,1342,1524,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_36.jpg 1193,621,1444,881,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_789.jpg 1457,1191,1874,1616,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_612.jpg 1830,1516,2488,2293,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1621.jpg 792,1246,1193,1655,0 1639,1434,1999,1793,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_176.jpg 1123,1439,1414,1768,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_125.jpg 1415,1628,1669,1867,0 1599,1528,1732,1721,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1049.jpg 721,1514,1358,2298,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_576.jpg 962,1515,1505,2156,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_509.jpg 1834,1631,2262,2082,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_363.jpg 759,421,1233,743,0 1204,1277,1645,1689,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_412.jpg 1663,1221,1890,1575,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_629.jpg 777,1348,1454,2118,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1661.jpg 620,218,2016,1516,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_541.jpg 1756,1516,2351,2059,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_799.jpg 1657,1446,2148,1900,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1271.jpg 1312,424,1681,694,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1584.jpg 1530,1320,2092,1882,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_379.jpg 881,1367,1138,1641,0 827,966,1122,1272,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_665.jpg 1227,1116,1856,1726,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_142.jpg 1125,1752,1435,2068,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_563.jpg 1830,1513,2467,2082,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_395.jpg 956,1352,1250,1598,0 975,1571,1238,1832,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_473.jpg 1290,1420,1783,1924,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1575.jpg 981,1451,1594,2012,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_342.jpg 817,1191,1103,1477,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_554.jpg 983,1676,1908,2601,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_80.jpg 1217,1432,1482,1678,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1255.jpg 1091,1118,1552,1680,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_314.jpg 1127,1022,1427,1285,0 1107,1334,1387,1577,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1495.jpg 1382,1656,1746,2089,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_383.jpg 1310,1544,1432,1691,0 1107,335,1201,502,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_304.jpg 1435,1170,1668,1399,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_449.jpg 1478,1990,1991,2329,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_234.jpg 1440,1127,1785,1628,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_191.jpg 1702,1224,2046,1520,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_659.jpg 1444,1292,2477,2310,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_651.jpg 1604,1087,2078,1558,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1689.jpg 941,1537,1223,1846,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_729.jpg 2040,1303,2736,2035,0 2278,1971,3000,2620,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_647.jpg 1920,1009,2711,1752,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_219.jpg 782,1753,1009,1926,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_499.jpg 1217,1093,2169,1890,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1716.jpg 1082,1369,1602,1894,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_463.jpg 1718,1441,2608,2157,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1629.jpg 786,1160,1169,1560,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_151.jpg 1232,1264,1451,1436,0 2406,1777,2534,1935,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_362.jpg 12,1622,440,2022,0 817,1274,1170,1563,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_455.jpg 1096,1059,1694,1360,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_109.jpg 1149,1100,1492,1346,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_65.jpg 2181,1433,2428,1554,0 833,722,1215,900,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_435.jpg 1328,1657,1852,2166,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1656.jpg 749,929,1431,1645,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_224.jpg 547,1163,999,1554,0 1103,1056,1521,1366,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_20.jpg 1438,1071,1791,1430,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_632.jpg 926,971,2221,2123,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_144.jpg 1224,1120,1557,1529,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1627.jpg 675,1484,1122,1983,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_383.jpg 1002,1008,1356,1358,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1295.jpg 1064,910,1566,1421,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_693.jpg 1025,898,1546,1448,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_78.jpg 1289,1073,1578,1338,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_458.jpg 685,868,1118,1258,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_637.jpg 1463,1259,2159,1963,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_49.jpg 1431,1408,1685,1665,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1168.jpg 977,1081,1210,1246,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1589.jpg 1492,1574,2125,2124,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_461.jpg 2032,716,2539,1426,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_188.jpg 869,760,1227,1101,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_681.jpg 1936,1342,2424,1755,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_225.jpg 1148,1123,1456,1322,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_338.jpg 1314,1201,1667,1548,0 796,2170,1076,2483,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1286.jpg 1435,1265,1830,1706,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1359.jpg 1794,1331,2228,1708,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1630.jpg 1339,1772,1814,2131,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1525.jpg 1868,883,2201,1292,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_673.jpg 1110,1002,1994,2010,0 1737,1631,2369,2350,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_191.jpg 921,488,1284,850,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_381.jpg 1320,1477,1611,1713,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_394.jpg 973,968,1266,1189,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1653.jpg 953,1209,1643,1814,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_339.jpg 1448,2151,1751,2461,0 2283,1378,2577,1668,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_125.jpg 1598,1320,1754,1591,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_620.jpg 1797,1082,2196,1638,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_414.jpg 822,667,1439,1290,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_304.jpg 1686,1088,1972,1374,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_721.jpg 1440,1306,1975,1781,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_501.jpg 1123,1107,1918,1816,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_351.jpg 1077,1122,1375,1394,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_35.jpg 1204,702,1451,957,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_434.jpg 1157,1138,1713,1906,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_682.jpg 1551,109,2379,722,0 1198,787,2248,1868,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1227.jpg 369,1016,721,1337,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1700.jpg 1203,787,1634,1274,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_451.jpg 1120,1270,1506,1757,0 1523,1249,2022,1744,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_749.jpg 1763,1395,2387,1968,0 1844,842,2424,1200,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1425.jpg 1254,992,1538,1261,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_730.jpg 1124,1484,1730,2145,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_378.jpg 1054,1269,1232,1455,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Red_Face_500.jpg 609,1299,1045,1867,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1710.jpg 1697,1378,2347,2030,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1437.jpg 1035,1304,1331,1613,0 1482,1178,1835,1459,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Dream_465.jpg 1947,1308,2541,1753,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1063.jpg 1289,1663,1831,2214,0
+/home/robotengineering/Desktop/YoloChanged/VOCdevkit/VOC2007/JPEGImages/Poinsettia_1302.jpg 1353,965,1737,1312,0
