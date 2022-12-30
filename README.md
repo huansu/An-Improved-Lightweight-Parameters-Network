@@ -23,3 +23,11 @@
 * Second, to set the dataset in this project file, and unzip it.
 * Last， just to run the Train.py after you have adjusted the hyper-parameters.
 <Br/>[After the training, you could find the weight(*.pth) and log files in the './logs'.]
+## Reference
+### Sincerely thank you all for your work
+https://github.com/argusswift/YOLOv4-pytorch
+<Br/>https://github.com/DingXiaoH/RepVGG
+<Br/>https://github.com/Tianxiaomo/pytorch-YOLOv4
+<Br/>https://github.com/bubbliiiing/yolov4-pytorch
+<Br/>https://github.com/tanluren/yolov3-channel-and-layer-pruning
+<Br/>(in no particular order)
