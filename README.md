@@ -20,6 +20,6 @@
 ## To Train
 ### If you want to train the model:
 * First, to download the dataset in [here](https://drive.google.com/drive/folders/1aT6ur3cLPp0xD0urIH6ex_mrFYkIAtm8?usp=sharing).
-* Second, set the dataset in this project file, and unzip it.
+* Second, to set the dataset in this project file, and unzip it.
 * Last， just to run the Train.py after you have adjusted the hyper-parameters.
 <Br/>[After the training, you could find the weight(*.pth) and log files in the './logs'.]
