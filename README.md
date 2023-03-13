@@ -1,4 +1,4 @@
-# Improved-YOLOv4
+# An Improved Lightweight Parameters Network
 &emsp;In order to solve the problems of poor robustness of traditional computer vision algorithms, and also the low inference speed and high computational cost of deep learning methods, an improved YOLO v4 algorithm with lightweight parameters for strawberry flowers detection was proposed in this paper. 
 ## Environment
 * Nvida GeForce RTX 2080TI x1
@@ -12,7 +12,7 @@
 ### Step 1: backbone network lightweight design
 * The backbone of original YOLOv4 was substituted by a new one which uses the grouped convolution to replace the traditional convoluton to do the calculations.
 ### Step 2: neck architecture modification
-* In order to ensure the deep layers to acquire the spatial information existed in the shallow layers, thereupon, the shallow layers and the deep layers in the same chain link were skip-layer connected for three different scales links in the section of the Neck of YOLOv4.
+* In order to ensure the deep layers to acquire the spatial information existed in the shallow layers, thereupon, the shallow layers and the deep layers in the same chain link were skip-layer connected for three different scales links in the PAN.
 ### Step 3: fusion of Conv layers and BN layers
 * The parameters of BN layer are merged into the convolutional layer to improve the speed of forward inference of the model
 ## Lightweight benefits evaluation
