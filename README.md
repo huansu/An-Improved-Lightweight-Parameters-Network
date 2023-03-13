@@ -16,7 +16,7 @@
 ### Step 3: fusion of Conv layers and BN layers
 * The parameters of BN layer are merged into the convolutional layer to improve the speed of forward inference of the model
 ## Lightweight benefits evaluation
-![image](readme_pic/evaluate.png)
+![image](pic/evaluate.png)
 ## To Train
 ### If you want to train the model:
 * First, to download the dataset in [here](https://drive.google.com/drive/folders/1aT6ur3cLPp0xD0urIH6ex_mrFYkIAtm8?usp=sharing).
